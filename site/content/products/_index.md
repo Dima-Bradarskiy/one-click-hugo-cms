@@ -91,10 +91,6 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-<<<<<<< HEAD
-      price: '1000'
-=======
       price: "100"
-type: products
->>>>>>> f2c6b0c1db916cae9c13a3260d3e60792779c547
+
 ---
